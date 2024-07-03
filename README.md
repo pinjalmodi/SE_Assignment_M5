@@ -1,1 +1,1 @@
-# SE_Assignment_M5
+This is fifth module of assignment. It includes basic DBMS Programs. Queries are related to insert,update,delete commands. Moreovers queries also includes like, Not,NULL, Having,In,AND,BETWEEN, Trigger Operations.
